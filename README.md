@@ -13,3 +13,5 @@ uvicorn app.main:app --reload
 - `POST /auth/login`
 - `POST /images`
 ```
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/60f8bb36-313e-4ab2-824a-e4e5941ba6b8" />
