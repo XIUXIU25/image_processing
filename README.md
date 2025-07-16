@@ -14,4 +14,4 @@ uvicorn app.main:app --reload
 - `POST /images`
 ```
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/60f8bb36-313e-4ab2-824a-e4e5941ba6b8" />
+<img width="1602" height="1050" alt="image" src="https://github.com/user-attachments/assets/fcfb633f-1c32-42e6-95e2-3971dff21ffa" />
